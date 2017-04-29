@@ -1,0 +1,28 @@
+.navbar-inverse {
+    background-color: #5490c4;
+    border-color: #5490c4;
+  
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #79838f;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #fff;
+    background-color: #79838f;
+}
+
+.navbar-inverse .navbar-brand {
+      color: #383125;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #383125;
+}
+
+
+.spacer{
+    min-height: 50px;
+}
